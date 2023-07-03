@@ -1,0 +1,20 @@
+package com.green.polymophism;
+
+public class TVUser {
+
+	public static void main(String[] args) {
+		SamsungTv stv = new SamsungTv();
+		stv.powerOn();
+		stv.volumeUp();
+		stv.volumeDown();
+		stv.powerOff();
+		System.out.println("----------------------");
+		LgTV ltv = new LgTV();
+		ltv.powerOn();
+		ltv.volumeUp();
+		ltv.volumeDown();
+		ltv.powerOff();
+		
+	}
+
+}

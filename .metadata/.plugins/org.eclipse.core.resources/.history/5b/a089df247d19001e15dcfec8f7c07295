@@ -1,0 +1,6 @@
+package com.green.sample;
+
+public class Restaurant {
+
+	private Chef chef;
+}

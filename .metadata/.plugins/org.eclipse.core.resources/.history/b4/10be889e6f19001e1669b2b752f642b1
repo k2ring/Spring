@@ -1,0 +1,11 @@
+package com.green.polymophism;
+
+public class TVUser {
+
+	public static void main(String[] args) {
+		SamsungTv stv = new SamsungTv();
+		stv.powerOn();
+		
+	}
+
+}
