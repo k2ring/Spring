@@ -1,9 +1,0 @@
-package com.green.sample;
-
-import org.springframework.stereotype.Component;
-
-@Component
-public class Restaurant {
-
-	private Chef chef;
-}
