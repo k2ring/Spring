@@ -5,10 +5,10 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <c:set var="contextPath"  value="${pageContext.request.contextPath}"  />
 <%-- 
-<c:set var="article"  value="${articleMap.article}"  />
-<c:set var="imageFileList"  value="${articleMap.imageFileList}"  />
 
  --%>
+<c:set var="imageFileList"  value="${articleMap.imageFileList}"  />
+<c:set var="article"  value="${articleMap.article}"  />
 <%
   request.setCharacterEncoding("UTF-8");
 %> 
