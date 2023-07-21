@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<list key="installedFeatures">
 		<item value="com.ianbrandt.tools.m2e.mdp.feature:0.0.4.201409291703"/>
+		<item value="com.tomato.exerd.feature:2.5.17.20220110-1118"/>
 		<item value="org.aspectj:1.9.2.201908130916"/>
 		<item value="org.eclipse.ajdt:2.2.4.201908130916"/>
 		<item value="org.eclipse.buildship:3.1.2.v20190903-1802"/>
@@ -108,6 +109,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\006895-master\006895-master\bookShop01"/>
+			<item value="D:\006895-master\bookShop01"/>
 			<item value="C:\Users\Administrator\Documents\workspace-sts-3.9.10.RELEASE\pro30"/>
 			<item value="C:\Users\Administrator\sts-workspace\pro29"/>
 			<item value="C:\spring"/>
