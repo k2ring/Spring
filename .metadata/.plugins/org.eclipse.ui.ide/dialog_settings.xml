@@ -109,6 +109,11 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Administrator\Downloads\템플릿\abc"/>
+			<item value="C:\Users\Administrator\Downloads\템플릿"/>
+			<item value="C:\Users\Administrator\Downloads\템플릿\spring-boot-web-support-master"/>
+			<item value="C:\Users\Administrator\Downloads\템플릿\spring-boot-shop-sample-master"/>
+			<item value="C:\Users\Administrator\Downloads\템플릿\simple-webapp-master"/>
 			<item value="D:\006895-master\006895-master\bookShop01"/>
 			<item value="D:\006895-master\bookShop01"/>
 			<item value="C:\Users\Administrator\Documents\workspace-sts-3.9.10.RELEASE\pro30"/>
